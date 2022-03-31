@@ -9,7 +9,7 @@
 
   This webpage of my Portfolio. It had been updated with recent projects that I have worked on
 
- Link to github with code (hhttps://github.com/ymunye1/Portfolio-Update-4)
+ Link to github with code (https://github.com/ymunye1/Portfolio-Update-4)
 
  Link to deployed site (https://ymunye1.github.io/Portfolio-Update-4/) 
 
